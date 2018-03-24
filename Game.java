@@ -16,7 +16,7 @@ public class Game {
 	public static Card lastestCard;
 	public static Card selectedCard;
 
-	public static void main(String[] args) throws InputMismatchException
+	public static void main(String[] args) throws InputMismatchException		//MAIN FUNCTION
 	{
 
 		initializeGame();
