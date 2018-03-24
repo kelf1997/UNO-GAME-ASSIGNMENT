@@ -1,2 +1,3 @@
-# UNO-GAME-ASSIGNMENT
-Simple Uno Game with Additional Special Card
+# UNO-GAME-ASSIGNMENT-JAVA
+Simple Uno Game with Additional Special Card JAVA PROGRAM
+WITHOUT GRAPHIC USER INTERFACE
